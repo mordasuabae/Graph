@@ -1,0 +1,26 @@
+/* .reports-page {
+
+} */
+
+.graph {
+    height: 500px;
+    display: flex;
+    gap: 30px;
+    justify-items: start;
+    align-items: end;
+    padding: 30px;
+    border-bottom: 2px rgb(158, 158, 158) solid;
+    border-left: 2px rgb(158, 158, 158) solid;
+    width: 500px;
+    margin: 0 auto;
+    margin-top: 200px;
+}
+
+.incomplete-bar {
+    width: 150px;
+    background: red;
+}
+.completed-bar {
+    width: 150px;
+    background: blue;
+}
